@@ -2,8 +2,18 @@
 pandas~=0.19.0
 numexpr~=2.6.1
 Bottleneck~=1.2.0
-# scipy~=0.18.1
+scipy~=0.18.1
 matplotlib~=1.5.3
 jupyter~=1.0.0
 jupyterlab~=0.7.0
 # https://github.com/briwilcox/Concurrent-Pandas
+# scrapy
+# scikit-learn
+# scikit-image
+# requests
+# pyyaml
+# arrow
+# pillow ?
+# odo ?
+# numexpr ?
+# nbpresent
