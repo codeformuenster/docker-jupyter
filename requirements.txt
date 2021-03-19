@@ -17,3 +17,4 @@ jupyterlab~=0.7.0
 # odo ?
 # numexpr ?
 # nbpresent
+pygments>=2.7.4 # not directly required, pinned by Snyk to avoid a vulnerability
